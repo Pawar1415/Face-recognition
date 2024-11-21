@@ -1,0 +1,10 @@
+http://127.0.0.1:5000/upload_video
+
+pip install streamlit
+pip install opencv-python ultralytics cvzone
+pip install ultralytics
+pip install cvzone
+
+
+
+http://127.0.0.1:5000/upload_video
